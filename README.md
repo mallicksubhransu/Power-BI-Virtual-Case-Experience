@@ -21,7 +21,7 @@ A series of dashboard have been made as a part of the task assigned under the vi
 
 ### Call Centre Trends
 
-![Call Centre Trends](dashboard-screenshots/call-centre-trends.png)
+![Call Centre Trends](dashboard screenshots/call center trends.png)
 
 The "Call Centre Trends" dashboard provides an overview of key metrics related to our call center operations. It includes visualizations of call volume, average response time, customer satisfaction scores, and more. This dashboard is essential for monitoring the efficiency and effectiveness of our customer support teams.
 
